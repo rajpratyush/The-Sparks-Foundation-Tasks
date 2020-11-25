@@ -1,2 +1,2 @@
 # The-Sparks-Foundation-Tasks
-Tasks completed in the sparks foundation internship
+Source files for the tasks completed as Data Science and Business Analytics Intern in The Saprks Foundation
